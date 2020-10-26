@@ -28,7 +28,7 @@
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
 [<img align="left" alt="JAVA" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />][webdevplaylist]
-[<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c-sharp/c-sharp.png" />][webdevplaylist]
+[<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" />][webdevplaylist]
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
@@ -64,11 +64,11 @@
 
 </details>
 
-[website]: https://jahanzeb-j.githib.com
+[website]: https://jahanzeb-j.github.com
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/jahanzebjabbar
 [twitter2]: https://twitter.com/techsolworld_
-[youtube]: https://youtube.com/
+[youtube]: https://www.youtube.com/channel/UCyMlIHAQdc9AkFhAgrixaTQ
 [instagram]: https://instagram.com/jahanzebjabbar1
 [instagram2]: https://instagram.com/TechSolWorld
 [linkedin]: https://linkedin.com/in/jahanzeb-jabbar
