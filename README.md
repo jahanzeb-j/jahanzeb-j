@@ -53,7 +53,7 @@
 
 ### 📺 Latest YouTube Videos
 
-➡️ [more videos...](https://youtube.com/codestackr)
+➡️ [Go to channel...](https://www.youtube.com/channel/UCyMlIHAQdc9AkFhAgrixaTQ)
 
 ---
 
