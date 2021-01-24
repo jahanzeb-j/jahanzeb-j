@@ -6,10 +6,10 @@
 
 ## I'm Software Engineer | Full-Stack Developer | Entrepreneur | Graphics Designer | Freelancer
 
-- 🔭 I'm working on my startup called EasyKarao [easykarao]
+- 🔭 I'm working on my startups - EasyKarao [easykarao] | OKKarao [okkarao]
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking for best job offer
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 👯 I look for best job offers always
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play games
 
 ### Connect with me:
@@ -77,3 +77,4 @@
 [cssplaylist]: https://
 [reactplaylist]: https://
 [easykarao]: https://ekinfo.web.app
+[okkarao]: https://okkarao.web.app
