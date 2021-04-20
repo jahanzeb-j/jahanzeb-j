@@ -1,6 +1,6 @@
 ### Hi there, I'm Jahanzeb Jabbar 👋
 
-[![Website](https://img.shields.io/website?label=Resume&style=for-the-badge&url=https%3A%2F%2Fjahanzeb-j.github.io)](https://jahanzeb-j.github.io)
+[![Website](https://img.shields.io/website?label=Resume&style=for-the-badge&url=https%3A%2F%2Fjahanzeb-j.github.io)](https://jahanzebjabbar.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/JahanzebJabbar?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJahanzeb-j&screen_name=JahanzebJabbar)
 [![Twitter Follow](https://img.shields.io/twitter/follow/TechSolWorld_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJahanzeb-j&screen_name=TechSolWorld_)
 
@@ -64,7 +64,7 @@
 
 </details>
 
-[website]: https://jahanzeb-j.github.com
+[website]: https://jahanzebjabbar.com
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/jahanzebjabbar
 [twitter2]: https://twitter.com/techsolworld_
