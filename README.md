@@ -48,6 +48,11 @@
 
 <br />
 <br />
+---
+
+### Sponsor
+
+🤝 [ SPONSOR ] (https://jahanzebjabbar.com/sponsor)
 
 ---
 
