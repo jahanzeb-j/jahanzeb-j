@@ -6,7 +6,8 @@
 
 ## I'm Software Engineer | Full-Stack Developer | Entrepreneur | Graphics Designer | Freelancer
 
-- 🔭 I'm working on my startups - EasyKarao [easykarao] | OKKarao [okkarao]
+- 🔭 I'm working as Senior Software Engineer
+- 🔭 I'm working on my startups - EasyKarao | OKKarao 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I look for best job offers always
 - 🥅 2021 Goals: Contribute more to Open Source projects
