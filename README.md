@@ -70,6 +70,8 @@
 
 </details>
 
+ ![Visitor Count](https://profile-counter.glitch.me/{jahanzeb-j}/count.svg)
+
 [website]: https://jahanzebjabbar.com
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/jahanzebjabbar
