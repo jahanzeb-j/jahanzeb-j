@@ -10,7 +10,7 @@
 - 🔭 I'm working on my startups - EasyKarao | OKKarao 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I look for best job offers always
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play games
 
 ### Connect with me:
