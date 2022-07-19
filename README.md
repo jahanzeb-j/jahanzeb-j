@@ -6,12 +6,12 @@
 
 ## I'm Software Engineer | Full-Stack Developer | Entrepreneur | Graphics Designer | Freelancer
 
-- 🔭 I'm working as Senior Software Engineer
+- 🔭 I'm working as IT Concultant in a renowned firm
 - 🔭 I'm working on my startups - EasyKarao | OKKarao 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything 😉
 - 👯 I look for best job offers always
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play games
+- ⚡ Fun fact: I love to play games
 
 ### Connect with me:
 
