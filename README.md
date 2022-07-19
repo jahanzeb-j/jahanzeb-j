@@ -4,7 +4,10 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/JahanzebJabbar?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJahanzeb-j&screen_name=JahanzebJabbar)
 [![Twitter Follow](https://img.shields.io/twitter/follow/TechSolWorld_?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FJahanzeb-j&screen_name=TechSolWorld_)
 
-## I'm Software Engineer | Full-Stack Developer | Entrepreneur | Graphics Designer | Freelancer
+## Software Engineer | Full-Stack Developer | Entrepreneur | Graphics Designer | Freelancer
+
+<img align="left" alt="codeSTACKr.com" width="382px" src="https://cdn.dribbble.com/users/1068771/screenshots/14225432/media/0da8c461ba3920a8c827d864a6e051ed.jpg" />
+<br/>
 
 - 🔭 I'm working as IT Concultant in a renowned firm
 - 🔭 I'm working on my startups - EasyKarao | OKKarao 
@@ -13,15 +16,18 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play games
 
+<br/><br/><br/>
+---
+
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter2]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram2]
+[<img align="left" alt="" width="22px" src="https://cdn.iconscout.com/icon/premium/png-64-thumb/web-analysis-optimization-internet-webpage-network-analytics-13-8814.png" />][website]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.iconscout.com/icon/free/png-64/youtube-268-721990.png" />][youtube]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.iconscout.com/icon/free/png-64/connection-83-151102.png" />][twitter]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.iconscout.com/icon/free/png-64/connection-83-151102.png" />][twitter2]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.iconscout.com/icon/free/png-64/linkedin-42-151143.png" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.iconscout.com/icon/free/png-64/instagram-50-151089.png" />][instagram]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.iconscout.com/icon/free/png-64/instagram-50-151089.png" />][instagram2]
 <br />
 ### Second Github Pro account:
 💻 [ Github Account] (https://github.com/jahanzebjabbar)
@@ -68,7 +74,7 @@
 
 ### 📺 Latest YouTube Videos
 
-➡️ [Go to channel...](https://www.youtube.com/channel/UCyMlIHAQdc9AkFhAgrixaTQ)
+➡️ [Go to channel...](https://www.youtube.com/c/jahanzebkvlogs)
 
 ---
 
@@ -85,7 +91,7 @@
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/jahanzebjabbar
 [twitter2]: https://twitter.com/techsolworld_
-[youtube]: https://www.youtube.com/channel/UCyMlIHAQdc9AkFhAgrixaTQ
+[youtube]: https://www.youtube.com/c/jahanzebkvlogs
 [instagram]: https://instagram.com/jahanzebjabbar1
 [instagram2]: https://instagram.com/TechSolWorld
 [linkedin]: https://linkedin.com/in/jahanzeb-jabbar
